@@ -1,5 +1,6 @@
 @echo off
 
+cd /d %~dp0
 
 echo Downloading Cinebench R23...
 curl -OL "https://installer.maxon.net/cinebench/CinebenchR23.zip"
