@@ -1,6 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
 
+cd /d %~dp0
+
 set SED_EXE_PATH="./sed/sed-4.2.1-bin/bin/sed.exe"
 set OUT_PATH="score.csv"
 
