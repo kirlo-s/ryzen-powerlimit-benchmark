@@ -7,7 +7,7 @@ set SED_EXE_PATH="./sed/sed-4.2.1-bin/bin/sed.exe"
 set OUT_PATH="score.csv"
 
 rem set power values in mW
-set MIN_POWER_VALUE=15000
+set MIN_POWER_VALUE=5000
 set STEP_VALUE=5000
 set MAX_POWER_VALUE=50000
 

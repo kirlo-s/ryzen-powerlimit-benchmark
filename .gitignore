@@ -6,3 +6,5 @@
 /score.csv
 /temp_format.txt
 /temp_res.txt
+*.csv
+*.CSV
